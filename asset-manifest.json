@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/sextant-ip-loopup/static/css/main.85de14be.css",
-    "main.js": "/sextant-ip-loopup/static/js/main.3d8bb38d.js",
-    "index.html": "/sextant-ip-loopup/index.html",
-    "main.85de14be.css.map": "/sextant-ip-loopup/static/css/main.85de14be.css.map",
-    "main.3d8bb38d.js.map": "/sextant-ip-loopup/static/js/main.3d8bb38d.js.map"
+    "main.css": "/sextant-ip-lookup/static/css/main.85de14be.css",
+    "main.js": "/sextant-ip-lookup/static/js/main.3d8bb38d.js",
+    "index.html": "/sextant-ip-lookup/index.html",
+    "main.85de14be.css.map": "/sextant-ip-lookup/static/css/main.85de14be.css.map",
+    "main.3d8bb38d.js.map": "/sextant-ip-lookup/static/js/main.3d8bb38d.js.map"
   },
   "entrypoints": [
     "static/css/main.85de14be.css",
