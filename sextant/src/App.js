@@ -13,7 +13,7 @@ function App() {
       <Exhibit name=" IPv6 Address">
           <Address url='https://api64.ipify.org?format=json' />
       </Exhibit>
-      <Exhibit name=" IPv4 Address">
+      <Exhibit name=" Latency">
         <PylonConn />
         </Exhibit>
     </div>
