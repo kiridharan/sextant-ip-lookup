@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class AddressDisplay extends Component {
+class Address extends Component {
     constructor(props) {
         super(props);
         this.state = {
@@ -24,4 +24,4 @@ class AddressDisplay extends Component {
     }
 }
 
-export default AddressDisplay;
+export default Address;
